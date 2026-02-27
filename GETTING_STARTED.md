@@ -1,4 +1,4 @@
-# _Computer Exercises 1–6 — Setup & Getting Started Guide_
+# _Computer Exercises — Setup & Getting Started Guide_
 
 All exercises are implemented in **Python 3** and provided in **Jupyter Notebook** format. The exercises use **PyTorch** as the primary deep learning framework.
 
