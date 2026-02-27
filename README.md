@@ -9,7 +9,8 @@ The course focuses on the mathematical foundations and engineering implementatio
 ## Overview
 
 Deep learning is a core technology in modern artificial intelligence.  
-This repository demonstrates practical implementations of neural network models using Python, covering both theory and applied engineering.
+This repository demonstrates practical implementations of neural network models using Python, covering both theory and applied engineering.  
+To get started with the exercises, check out the *[Setup & Getting Started Guide](https://github.com/theanasuddin/Deep-Learning-Fundamentals/blob/master/GETTING_STARTED.md)*
 
 The exercises emphasize:
 
